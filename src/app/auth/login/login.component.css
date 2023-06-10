@@ -78,6 +78,10 @@
 }
 #enabled-link{
     color: #E04B5A;
+    cursor: pointer;
+    border: none;
+    font-family: 'Montserrat';
+    font-size: 20px;
 }
 
 
